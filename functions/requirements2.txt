@@ -1,0 +1,4 @@
+#boot
+ydb==2.10.0
+python-telegram-bot==13.15
+pydantic==1.9.1
